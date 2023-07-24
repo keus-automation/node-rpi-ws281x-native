@@ -1,5 +1,5 @@
 {
-  "name": "rpi-ws281x-native",
+  "name": "@keus-automation/rpi-ws281x-native",
   "version": "1.0.4",
   "description": "(raspberry-pi *only*) native bindings to control a strip of WS281x-LEDs with node.js",
   "keywords": [
